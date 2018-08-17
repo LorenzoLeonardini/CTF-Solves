@@ -1,3 +1,12 @@
+# Code for aMAZEing - programming challenge from HackCon'18
+# https://hackcon.in
+# by Lorenzo Leonardini - Team ZenHack
+#
+#
+#
+# We intercepted some weird transmission. Can you find what they are hiding?! 
+# nc 139.59.30.165 9300
+
 from __future__ import print_function
 from pwn import *
 from PIL import Image
